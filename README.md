@@ -16,8 +16,7 @@ I'm passionated about nothing 🗿.
 <!-- github -->
 <details><summary><b>Random</b></summary><br>
   
-- [Ka Rhis](https://zhwzein.github.io/caca/)  
-- [Bucin](https://zhwzein.github.io/bucin/)  
+- [Ka Rhis](https://Rhishnaa.github.io/Rhis/)  
 </details>
 
 
