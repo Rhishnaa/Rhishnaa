@@ -29,6 +29,7 @@ I'm passionated about nothing 🗿.
        <a href="https://www.instagram.com/rhishna_/" target="_blank"><img src="https://shields.io/badge/Rhishnaa-111111.svg?&style=for-the-badge&logo=instagram"></a>  
        <a href="https://twitter.com/rhishna_nation/" target="_blank"><img src="https://shields.io/badge/Rhishnaa-111111.svg?&style=for-the-badge&logo=twitter"></a>  
        <a href="https://www.facebook.com/rhishna.tralala/" target="_blank"><img src="https://shields.io/badge/Rhishnaa-111111.svg?&style=for-the-badge&logo=facebook"></a>  
+       <a href="https://www.soundcloud.com/rhishna-capital/" target="_blank"><img src="https://shields.io/badge/Rhishnaa-111111.svg?&style=for-the-badge&logo=soundcloud"></a>  
   </div>
 
 
