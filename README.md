@@ -16,7 +16,7 @@ I'm passionated about nothing 🗿.
 <!-- github -->
 <details><summary><b>Random</b></summary><br>
   
-- [Ka Rhis](https://Rhishnaa.github.io)  
+- [Rhishna](https://Rhishnaa.github.io)  
 </details>
 
 
