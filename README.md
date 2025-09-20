@@ -6,8 +6,7 @@
 </p>
 <p align="center">
 </p>
-<img alt="GIF" src="[(https://ibb.co.com/4gYDfpc3)]" width="980" />
-<div align="center">
+
 <details>
 
 <a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/youtube-logo.png" width="40" /></a>
