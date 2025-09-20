@@ -1,7 +1,14 @@
-<img src="https://github.com/Rhishnaa/Rhishnaa/blob/master/linkedin_banner.png" />
-
-<h1>Hi Traveller, I am <a href="https://Rhishnaa.github.io/">Rhishnaa (PEMBUAT AKUN)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
-<img align='right' src="https://github.com/Rhishnaa/Rhishnaa/blob/master/my_image.jpeg" width="230" />
+<p align="center">
+<a href="#"><img title="RHISHNA" src="https://img.shields.io/badge/RHISHNA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/naisayuriza"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RHISHNA-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+</p>
+<img alt="GIF" src="https://media.giphy.com/media/FbN2hnZhwTWGmN2cRl/giphy.gif" width="980" />
+<div align="center">
+<details>
 
 <a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/youtube-logo.png" width="40" /></a>
 <a href="https://www.patreon.com/devsense"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/patreon_logo.png" width="65" /></a>
