@@ -7,7 +7,7 @@
 <p align="center">
 </p>
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/gg8pP4r/OIP.jpg" alt="OIP" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>JANGAN DIAMBIL NANTI AKU NANGIS LO</a><br />
+<a href="https://imgbb.com/"><img src="https://ibb.co.com/4gYDfpc3" alt="OIP" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>JANGAN DIAMBIL NANTI AKU NANGIS LO</a><br />
 </p>
 <br>
 <details>
