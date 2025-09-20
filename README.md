@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 </p>
-<img alt="GIF" src="[https://media.giphy.com/media/FbN2hnZhwTWGmN2cRl/giphy.gif](https://ibb.co.com/4gYDfpc3)" width="980" />
+<img alt="GIF" src="[(https://ibb.co.com/4gYDfpc3)]" width="980" />
 <div align="center">
 <details>
 
