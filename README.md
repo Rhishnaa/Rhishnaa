@@ -7,7 +7,7 @@
 <p align="center">
 </p>
 <p align="center">
-<a href="https://i.top4top.io/"><img src="https://i.top4top.io/p_3551vnmgi1.jpg" width="530" ></a><br /><a target='_blank' href='https://imgbb.com/'>RHISHNA CAPITAL FAMILY</a><br />
+<a href="https://i.top4top.io/"><img src="https://j.top4top.io/p_3551261uf1.jpg" width="750" ></a><br /><a target='_blank' href='https://imgbb.com/'>RHISHNA CAPITAL FAMILY</a><br />
 </p>
 <br>
 <details>
