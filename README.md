@@ -7,7 +7,7 @@
 <p align="center">
 </p>
 <p align="center">
-<a href="https://imgbb.com/"><img src="(https://ibb.co.com/4gYDfpc3)" alt="OIP" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>JANGAN DIAMBIL NANTI AKU NANGIS LO</a><br />
+<a href="https://i.top4top.io/"><img src="https://i.top4top.io/p_3551vnmgi1.jpg" alt="OIP" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>RHISHNA CAPITAL FAMILY</a><br />
 </p>
 <br>
 <details>
